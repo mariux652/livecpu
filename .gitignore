@@ -4,5 +4,5 @@
 replit.nix
 .breakpoints
 
-# Node.js specific
+# Node.js specific files
 node_modules/
