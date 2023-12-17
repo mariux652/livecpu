@@ -18,7 +18,11 @@ First you'll need to clone this repository into your preferred IDE, and get the 
   
 3) <b>Run the project.</b> You can do this many ways, but universally just type <code>node .</code> into the console. If you recieve any errors, your stream key is probably wrong or the video file path does not exist. 
 
-https://github.com/cmdwm/livecpu/assets/35583237/8f21ee2c-e226-40db-9ae2-f563f6fb2ef9
+
+
+https://github.com/cmdwm/livecpu/assets/35583237/f652f8d3-2061-4949-8eb0-cd1dc89c36dd
+
+
 
 
 <h2>Debugging</h2>
